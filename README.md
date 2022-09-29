@@ -24,16 +24,16 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=E90800)
   ![C-sharp](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp)
   ![.Net](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-flat&logo=.net&logoColor=white)
-  ![EntityFramework](https://img.shields.io/badge/-EntityFramework-333333?style=flat&logo=entity-framework&logoColor=E90800)
+  ![EntityFramework](https://img.shields.io/badge/-EntityFramework-5C2D91?style=flat&logo=entity-framework&logoColor=white)
   ![Microservice](https://img.shields.io/badge/-Microservice-333333?style=flat&logo=microservice&logoColor=E90800)
   ![RestfulApi](https://img.shields.io/badge/-RestfulApi-333333?style=flat&logo=restful-api&logoColor=E90800)
   
 - 🛢 &nbsp;
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgreSql)
   ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
-  ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=E90800)
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-green?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-yellow?style=flat&logo=rabbitmq&logoColor=E90800)
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch&logoColor=E90800)
   ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=E90800)
 - ⚙️ &nbsp;
