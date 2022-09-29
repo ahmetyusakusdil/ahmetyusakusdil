@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; I am improving myself to become a qualified software developer.
 - 🎓 &nbsp; Istanbul Aydın University - Computer Education and Instructional Technology.
-- 🌱 I’m currently learning Java & React
 - ⚡ I'm looking for a job
 
 ##  🤝🏻 &nbsp; Contact me via these platforms! 
@@ -23,10 +22,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=E90800)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=EB9A2C)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-flat&logo=spring&logoColor=white)
   ![C-sharp](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-flat&logo=.net&logoColor=white)
   
@@ -34,6 +30,7 @@
 - 🛢 &nbsp;
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgreSql)
   ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
