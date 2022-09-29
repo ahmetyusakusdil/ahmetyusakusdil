@@ -32,13 +32,14 @@
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgreSql)
   ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-black?style=flat&logo=microsoft-sql-server)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat&logo=mongodb)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&logoColor=orange)
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat&logo=elasticsearch&logoColor=white)
   ![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat&logo=kibana&logoColor=E90800)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
