@@ -21,20 +21,24 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node-js)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=E90800)
   ![C-sharp](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-flat&logo=.net&logoColor=white)
-  
+  ![.Net](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-flat&logo=.net&logoColor=white)
+  ![EntityFramework](https://img.shields.io/badge/-EntityFramework-333333?style=flat&logo=entity-framework&logoColor=E90800)
+  ![Microservice](https://img.shields.io/badge/-Microservice-333333?style=flat&logo=microservice&logoColor=E90800)
+  ![RestfulApi](https://img.shields.io/badge/-RestfulApi-333333?style=flat&logo=restful-api&logoColor=E90800)
   
 - 🛢 &nbsp;
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgreSql)
   ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq&logoColor=E90800)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch&logoColor=E90800)
+  ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=E90800)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
