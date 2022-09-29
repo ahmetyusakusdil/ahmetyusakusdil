@@ -31,10 +31,10 @@
 - 🛢 &nbsp;
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgreSql)
   ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
-  ![MongoDb](https://img.shields.io/badge/-MongoDb-green?style=flat&logo=mongodb)
-  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-yellow?style=flat&logo=rabbitmq&logoColor=E90800)
-  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch&logoColor=E90800)
+  ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&logoColor=orange)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat&logo=elasticsearch&logoColor=white)
   ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=E90800)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
