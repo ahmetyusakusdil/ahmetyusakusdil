@@ -18,24 +18,24 @@
 ### 🛠 &nbsp;Technologies & Tools
 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=E90800)
-  ![C-sharp](https://img.shields.io/badge/-C%23-5C2D91?style=flat&logo=c-sharp)
-  ![.Net](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-flat&logo=.net&logoColor=white)
-  ![EntityFramework](https://img.shields.io/badge/-EntityFramework-5C2D91?style=flat&logo=entity-framework&logoColor=white)
-  ![Microservice](https://img.shields.io/badge/-Microservice-333333?style=flat&logo=microservice&logoColor=E90800)
-  ![RestfulApi](https://img.shields.io/badge/-RestfulApi-333333?style=flat&logo=restful-api&logoColor=E90800)
+  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=E90800)
+  ![C-sharp](https://img.shields.io/badge/-C%23-black?style=flat&logo=c-sharp)
+  ![.Net](https://img.shields.io/badge/-.NET-black?style=for-the-flat&logo=.net&logoColor=white)
+  ![EntityFramework](https://img.shields.io/badge/-EntityFramework-black?style=flat&logo=entity-framework&logoColor=white)
+  ![Microservice](https://img.shields.io/badge/-Microservice-black?style=flat&logo=microservice&logoColor=E90800)
+  ![RestfulApi](https://img.shields.io/badge/-RestfulApi-black?style=flat&logo=restful-api&logoColor=E90800)
   
 - 🛢 &nbsp;
-  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgreSql)
-  ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
+  ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgreSql)
+  ![MSSQL](https://img.shields.io/badge/-Microsoft_SQL_Server-black?style=flat&logo=microsoft-sql-server)
   ![MongoDb](https://img.shields.io/badge/-MongoDb-black?style=flat&logo=mongodb)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat&logo=rabbitmq&logoColor=orange)
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat&logo=elasticsearch&logoColor=white)
-  ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=E90800)
+  ![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat&logo=kibana&logoColor=E90800)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
